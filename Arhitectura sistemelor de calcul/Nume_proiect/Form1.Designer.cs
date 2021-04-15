@@ -1,6 +1,6 @@
 ﻿namespace Nume_proiect
 {
-    partial class Form1
+    partial class AssemblerMainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -91,6 +91,7 @@
             this.ConvertBtn.TabIndex = 9;
             this.ConvertBtn.Text = "Convert";
             this.ConvertBtn.UseVisualStyleBackColor = true;
+            this.ConvertBtn.Click += new System.EventHandler(this.ConvertBtn_Click);
             // 
             // ExitButton
             // 
@@ -103,7 +104,7 @@
             this.ExitButton.Text = "Exit";
             this.ExitButton.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // AssemblerMainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -114,8 +115,8 @@
             this.Controls.Add(this.ASMShowTextBox);
             this.Controls.Add(this.BrowseBtn);
             this.Controls.Add(this.FileNameTextBox);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "AssemblerMainForm";
+            this.Text = "AssemblerMainForm";
             this.ResumeLayout(false);
             this.PerformLayout();
 

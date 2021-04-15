@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace Nume_proiect
 {
-    public partial class Form1 : Form
+    public partial class AssemblerMainForm : Form
     {
         private Assembler assembler;
 
-        public Form1()
+        public AssemblerMainForm()
         {
             InitializeComponent();
             assembler = new Assembler(this);
@@ -49,6 +49,9 @@ namespace Nume_proiect
             }
         }
 
-   
+        private void ConvertBtn_Click(object sender, EventArgs e)
+        {
+            assembler.generateBinaryFile();
+        }
     }
 }

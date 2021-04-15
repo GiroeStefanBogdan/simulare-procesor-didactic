@@ -2,9 +2,9 @@ C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistem
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\bin\Debug\Nume_proiect.exe
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\bin\Debug\Nume_proiect.pdb
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.csprojAssemblyReference.cache
-C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.Form1.resources
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.Properties.Resources.resources
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.csproj.GenerateResource.cache
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.csproj.CoreCompileInputs.cache
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.exe
 C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.pdb
+C:\Users\Giroe Stefan Bogdan\Desktop\Foldere\Anul 3\Sem 2\Pr. Arhitectura Sistemelor de calcul\simulare-procesor-didactic\Arhitectura sistemelor de calcul\Nume_proiect\obj\Debug\Nume_proiect.AssemblerMainForm.resources
